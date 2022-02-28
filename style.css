@@ -1,0 +1,28 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header {
+    background-color: beige;
+    display : flex;
+    justify-content: space-between; 
+}
+
+.menu {
+    background-color: darkgoldenrod;
+}
+
+.games {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.socialmedia {
+    display:flex;
+    background-color: darksalmon;
+    justify-content: flex-start;
+}
